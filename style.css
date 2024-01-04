@@ -5,8 +5,17 @@ header {
 body {
   color: black;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   background-image: url(https://i.postimg.cc/Z0ktkML3/jagody.jpg);
   background-size: cover;
   background-attachment: fixed;
+  background-position: center center;
+}
+
+.container {
+  background-color: antiquewhite;
+  width: max-content;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 70px;
 }
