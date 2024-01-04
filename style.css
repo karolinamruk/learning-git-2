@@ -3,7 +3,10 @@ header {
 }
 
 body {
-  background-color: antiquewhite;
-  color: blueviolet;
+  color: black;
   text-align: center;
+  font-size: 50px;
+  background-image: url(https://i.postimg.cc/Z0ktkML3/jagody.jpg);
+  background-size: cover;
+  background-attachment: fixed;
 }
